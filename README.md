@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anatolii Stehnii 👋</h1>
+<h1 align="center">Hi, I'm Anatolii 👋</h1>
 
 <h3 align="center">Software engineer by trade, and I love building things just for fun.</h3>
 
